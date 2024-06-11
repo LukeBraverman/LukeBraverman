@@ -2,7 +2,7 @@
 
 # 🏄‍♂️ Luke Braverman
 
-**`Freelance Developer`**
+**`Freelance Fullstack Developer`**
 
 I'm a freelance developer with realworld experience working on enterprise projects. I have Fullstack experience using HTML / CSS / JS / React / Nest.js / Node / Angular / Jave / Spring Boot. Thank you for checking out my GitHub Portfolio!
 
