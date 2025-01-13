@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 🏄‍♂️ Luke Braverman
+# Luke Braverman
 
 **`Fullstack Developer`**
 
