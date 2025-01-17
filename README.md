@@ -4,7 +4,7 @@
 
 **`Fullstack Developer`**
 
-I'm a developer with realworld experience working on enterprise projects. I have Fullstack experience using HTML / CSS / JS / React / Nest.js / Node / Angular / Java / Spring Boot. Thank you for checking out my GitHub Portfolio!
+I'm a developer, currently studying at university, with realworld experience working on enterprise projects as a apprentice. I have Fullstack experience using HTML / CSS / JS / React / Nest.js / Node / Angular / Java / Spring Boot. Thank you for checking out my GitHub Portfolio!
 
 ### 🧰 Languages and Tools
 
